@@ -9,4 +9,4 @@ ainsi que la recherche de chambres disponibles.
 -----------------------------
 
 Lien vers Github : https://github.com/ChnitfaMarwane/BD_Projet_2025
-Lien vers Video (Youtube) : 
+Lien vers Video (Youtube) : https://www.youtube.com/watch?v=IMAjuXt75uw
